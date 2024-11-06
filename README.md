@@ -11,5 +11,11 @@ To try this calculator you are gonna have to
 And that's it!
 <br><br>
 
-## Preview
-![image](https://github.com/user-attachments/assets/fd2c09cd-65b7-43d2-84d2-d3da38f2644f)
+## Preview (Real One vs Fake Ass Clone)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+  <img src="https://github.com/user-attachments/assets/a3b0a12c-089b-4024-97f7-be9cfa3cc76e" alt="Screenshot" style="width: 48%; height: 700px;"/>
+  <img src="https://github.com/user-attachments/assets/67b63edd-093e-411d-b410-5de3e586112d" alt="Image 1" style="width: 40%; height: 700px;"/>
+</div>
+
+
