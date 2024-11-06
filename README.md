@@ -6,7 +6,9 @@ In the game player can use Dave's phone, in that phone you can use this calculat
 ## How to try this calculator?
 To try this calculator you are gonna have to 
 1. install the font in the Font Folder
-2. install pillow in command prompt type "pip install pillow" 
+2. install pillow in command prompt type "pip install pillow"
+3. Download this Repository
+4. Run app.py
 
 And that's it!
 <br><br>
