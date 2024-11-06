@@ -12,6 +12,7 @@ And that's it!
 <br><br>
 
 ## Preview ( Real One vs Fake Ass Clone )
+<br>
 <div style="display: flex; justify-content: space-between;">
   <div>
   <img src="https://github.com/user-attachments/assets/a3b0a12c-089b-4024-97f7-be9cfa3cc76e" alt="Screenshot" style="width: 350px; height: 500px;"/>
