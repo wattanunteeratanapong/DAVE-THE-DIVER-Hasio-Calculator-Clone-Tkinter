@@ -1,6 +1,6 @@
 # DAVE THE DIVER Hasio Calculator Clone Tkinter
 Have you ever play DAVE THE DIVER? <br>
-In the game player can use dave's phone, in that phone you can use this calculator.<br>
+In the game player can use Dave's phone, in that phone you can use this calculator.<br>
 <br>
 
 ## How to try?
