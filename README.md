@@ -14,8 +14,8 @@ And that's it!
 ## Preview (Real One vs Fake Ass Clone)
 <div style="display: flex; justify-content: space-between;">
   <div>
-  <img src="https://github.com/user-attachments/assets/a3b0a12c-089b-4024-97f7-be9cfa3cc76e" alt="Screenshot" style="width: 500px; height: 700px;"/>
-  <img src="https://github.com/user-attachments/assets/67b63edd-093e-411d-b410-5de3e586112d" alt="Image 1" style="width: 400px; height: 700px;"/>
+  <img src="https://github.com/user-attachments/assets/a3b0a12c-089b-4024-97f7-be9cfa3cc76e" alt="Screenshot" style="width: 350px; height: 500px;"/>
+  <img src="https://github.com/user-attachments/assets/67b63edd-093e-411d-b410-5de3e586112d" alt="Image 1" style="width: 280px; height: 500px;"/>
 </div>
 
 
